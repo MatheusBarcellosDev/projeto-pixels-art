@@ -10,7 +10,7 @@
 
 body {
     background-image: url(/fundo.png);
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-color: black;
     max-width: 1200px;
